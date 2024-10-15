@@ -1,6 +1,10 @@
+# Código de Python no Mestrado de Bioinformática Clínica
+
+Descrição:
+
 Repositorio que contem todo o codigo de python correspondente ao mestrado de Bioinformática Clínica da Universidade de Aveiro.
 
-Progresso:
+##Progresso:
 
 PAC:
 
