@@ -8,9 +8,9 @@ Repositorio que contem todo o codigo de python correspondente ao mestrado de Bio
 
 ### PAC:
 
-- Aula 0: Finalizada
-- Aula 1: Finalizada
-- Aula 4: ex.1 sem documentação
+- Aula 0: todos os exercicios finalizados. Slides e certos ficheiros relevantes não estão presentes ainda
+- Aula 1: todos os exercicios finalizados. Slides e certos ficheiros relevantes não estão presentes ainda
+- Aula 4: ex.1 finalizado sem documentação
 
 ## Observações
 
