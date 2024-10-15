@@ -1,13 +1,21 @@
 # Guardar input do utilizador numa variável
 temp_cels = input("Temperature in Celsius: ")
 
-# Converter a variável para float
-# Se não for possível converter, imprimir "Error" e sair
-# Desta forma, o programa fica com erro
+# Esta secção do código é usada para apanhar erros.
+# Por exemplo, se o utilizador inserir uma string em vez de um float, o programa iria apenas crashar
+# No entanto, se usarmos try, o programa vai tentar converter o input do utilizador para um float
+# No caso de não ser possível converter, o programa vai correr a secção de código dentro do except
+# Neste caso, o programa vai imprimir "Error" e sair
+# Se for possível converter, o programa vai continuar a correr normalmente e passar a frente o except
+# Try e except ainda nao foi abordado nas aulas, portanto se se sentirem muito confusos, ignorem esta parte
 try:
+
+    # Converter a variável para float
     temp_cels = float(temp_cels)
 
 except ValueError:
+
+    # Imprimir "Error" e sair
     print("Error")
     exit()
 
