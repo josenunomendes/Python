@@ -1,15 +1,16 @@
 # Código Python do Mestrado de Bioinformática Clínica (UA)
 
-## Descrição:
+## Descrição
 
 Repositório que contem todo o código de python correspondente ao mestrado de Bioinformática Clínica da Universidade de Aveiro
 
 ## Progresso
 
-### PAC:
+### PAC
 
 - Aula 0: finalizada
 - Aula 1: finalizada
+- Aula 2: todos os ex. finalizados sem documentação
 - Aula 4: ex.1 finalizado sem documentação
 
 ## Observações
