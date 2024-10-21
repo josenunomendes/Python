@@ -13,6 +13,7 @@ Repositório que contem todo o código de python correspondente ao mestrado de B
 - Aula 2: todos os ex. finalizados sem documentação
 - Aula 3: todos os ex. finalizados sem documentação
 - Aula 4: todos os ex. finalizados sem documentação
+- Aula 5: ex.1 e ex.2 sem documentação
 
 ## Observações
 
